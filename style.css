@@ -43,6 +43,6 @@ section {
 
 .top-baner {
 
-    background-image: url(/Image/baner.png);
+    background-image: url(file:///H:/developer%20portpolio/Image/baner.png);
     background-repeat: no-repeat;
 }
